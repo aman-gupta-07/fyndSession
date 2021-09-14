@@ -1,3 +1,1 @@
 # fyndSession
-# PythonBackendDeveloper
-# Internship
